@@ -1,3 +1,5 @@
+//Input element component
+
 import React, { Component } from 'react';
 
 export default class TodoInput extends React.Component {
